@@ -22,8 +22,6 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-Maintainer: Jacob Friis Mathiasen <jacob.friis@simple-complex.net>
-
 Field Hidden defines five hidden field types
  * text, long text
  * integer, decimal, floating-point
